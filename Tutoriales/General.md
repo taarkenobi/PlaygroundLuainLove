@@ -1,6 +1,6 @@
 
-| | ![img](https://i.imgur.com/g4HtEtP.jpg) | |
-| :-------- | :-------: | --------: |
+| ![img](https://i.imgur.com/g4HtEtP.jpg) |
+| :--------: | 
 
 
 
