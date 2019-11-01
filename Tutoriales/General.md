@@ -1,13 +1,7 @@
-<div id="contenedor">
-    <table><tr><td>
-        <img src="https://i.imgur.com/g4HtEtP.jpg" />
-    </td></tr></table>
-</div>
 
-#container table{
-    vertical-align:middle;
-    max-height:100%;
-}
+| | ![img](https://i.imgur.com/g4HtEtP.jpg) | |
+
+
 
 # LUA TUTORIAL
 
