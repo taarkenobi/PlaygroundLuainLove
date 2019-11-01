@@ -1,3 +1,3 @@
 theme: jekyll-theme-minimal
 title: "Playground Lua n' Love"
-description: <div w3-include-html="tutorial1.html"></div>
+description: { % include tutorial1.html % }
