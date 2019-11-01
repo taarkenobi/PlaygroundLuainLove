@@ -1,5 +1,5 @@
 
-![img](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png)
+![img](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png =250x)
 
 
 
@@ -26,9 +26,3 @@ Lua provee un conjunto de características únicas que lo distinguen de otros le
 * Portable.
 * Gratis y Abierto.
 
-> ```lua
-> function love.load()
->     --- cargar archivos
->     local obj = require('Objects.Obj')
-> end
-> ```
