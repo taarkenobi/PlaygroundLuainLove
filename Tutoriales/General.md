@@ -26,13 +26,9 @@ Lua provee un conjunto de características únicas que lo distinguen de otros le
 * Portable.
 * Gratis y Abierto.
 
-```lua
-function love.load()
-    --- cargar archivos
-    local obj = require('Objects.Obj')
-end
-```
-```c#
-public int _menor = 23;
-private float _mayor = 0,32f;
-```
+> ```lua
+> function love.load()
+>     --- cargar archivos
+>     local obj = require('Objects.Obj')
+> end
+> ```
